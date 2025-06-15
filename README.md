@@ -16,4 +16,4 @@ Created documentation, translated business goals to user stories, managed Jira b
 
 ---
 
-Contact: [Your LinkedIn/GitHub]
+Contact: onaikade@gmail.com
